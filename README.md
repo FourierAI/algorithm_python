@@ -1,2 +1,2 @@
 # algorithm_python
-leetcode
+It is a practice of leetcode in python
